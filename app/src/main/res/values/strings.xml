@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Loan Calculator</string>
+    <string name="loan_amount">Сумма займа</string>
+    <string name="loan_terms">Срок кредитования</string>
+    <string name="loan_percent">Процент по кредиту</string>
+    <string name="month_payment">Ежемесячный платёж</string>
+    <string name="overpayment">Переплата</string>
+</resources>
